@@ -1,0 +1,60 @@
+COSC 480B Assignment #2: Network Intrusion Detection
+
+
+NAMES: [Full Names of both partners]
+
+_______________________________________________________________________________________________
+
+Question #1
+Why is it necessary to identify malicious hosts in order to stop port scans in real traffic? 
+Why isn't identifying SYN-only flows sufficient?
+
+[Your answer here]
+
+_______________________________________________________________________________________________
+
+Question #2
+Choose 2 IP addresses in the set of "malicious hosts" and see what you can find out about them 
+using the "whois" command and searching online. Report your most interesting findings below.
+
+[Your answer here]
+
+________________________________________________________________________________________________
+
+Question #3
+A threshold of 100 is the default for the Bro algorithm. 
+Given the results in your sensitivity curve plot, why do you think this value was chosen? 
+What are the pros and cons of choosing a higher or lower threshold?
+
+[Your answer here]
+
+________________________________________________________________________________________________
+
+Question #4
+A threshold of 100 would have blocked ~115 hosts (if your implementation didn't, 
+you should check it for bugs). This is many fewer hosts than the number of malicious hosts 
+found in Part 3. What differences between the Bro algorithm and the method used in Part 3 
+caused this difference? Which method do you think is more likely to be accurate? Why?
+
+[Your answer here]
+
+_________________________________________________________________________________________________
+
+Question #5 (ungraded)
+How did you divide the work between partners? (Put N/A if worked alone)
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #6 (optional, ungraded)
+Did you use code snippets from anywhere online that you need to cite?
+
+[Your answer here]
+
+______________________________________________________________________________________
+
+Question #7 (optional, ungraded) 
+Do you have any suggestions for improving this assignment in the future?
+
+[Your answer here]
