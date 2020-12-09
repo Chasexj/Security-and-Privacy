@@ -1,0 +1,85 @@
+COSC 480B Assignment #5: Usable Privacy
+
+
+NAMES: [Xi Chase Jiang and Si Wei]
+
+_______________________________________________________________________________________________
+
+Question #1
+Since this is a homework assignment and not a research project, we are skipping several important 
+considerations that would be essential for a real user study. List three modifications that would
+need to be made to the experimental method in Part 2 to make it a properly controlled study. 
+
+1: First of all, as a homework assignment, our sample size may not be large enough to reflect
+the true statistics of the entire population. As we only obtained a totoal of 42 (including
+both expert and typical users) users for the study, the sample size needs to be considerably
+larger for a real user study.
+2: Our study is not necessarily reprentative of the real usages of the different OSs and browsers
+among the users. Take the Firefox browser for example, our study only included one expert user 
+and one typical user using the Firefox browser. However, in reality, there may be a noticably
+higher portion of users that use Firefox. As a result, the study need to improve by selecting
+samples that are actually representative of the real OS and browser usages.
+3: The individuals that we surveyed in this study is not necessarily diverse enough to be
+considered as a real user study. Take the age range of the expert users for example,
+the average age for these users is around 23 which leans significantly closer towards the
+younger users. As a result, our study may not be inclusive enough of expert users in other
+age group and improving similar diversities in our sample can contribute towards a real
+user study.
+
+________________________________________________________________________________________________
+
+Question #2
+Provide a caption for your figure with the data from Part 1. 
+
+
+Average User Interactions Needed to Perform Privacy Customization Activities in Web Browsers
+and Smartphones.
+
+________________________________________________________________________________________________
+
+Question #3
+Provide a caption for your figure with the data from Part 2. 
+
+
+Average User Time Needed to Perform Privacy Customization Activities in Web Browsers
+and Smartphones (for Expert Users and Typical Users).
+________________________________________________________________________________________________
+
+Question #4
+Choose one takeaway from the data and figures. Describe its implications for software developers
+and designers attempting to balance privacy customization options and user-friendliness.
+
+
+One key observation from the two figures is that, while iOS smartphone appear to require less
+interactions to perform privacy customization activities such as location service and
+advertising ID compared to Android devices, it actually takes longer (in terms of time) for the
+typical users to perform these actions (as shown in Part2Figure). One possible reason that can
+contribute to this is that, while iOS devices allow the users to access these privacy settings
+through fewer interactions, the devices themselves may not provide sufficiently enough hints
+(such as obvious icons and setting names) that actually aid the users when they attempt to perform 
+these privacy customization tasks. On the other hand, although the Android devices require more
+interactions, the typical Android users actually appear to take less time to perform these 
+activities. As a result, it may be worth looking to the difference between these Smartphone
+OSs' designs that combine the advantages of both OSs to create privacy setting interfaces 
+that provide both few interactions and higher user-friendliness.
+
+________________________________________________________________________________________________
+
+Question #5 (ungraded)
+How did you divide the work between partners? (Put N/A if worked alone)
+
+We splitted work and peer reviewed our conclusions.
+
+______________________________________________________________________________________
+
+Question #6 (optional, ungraded)
+Did you use code snippets from anywhere online that you need to cite?
+
+No.
+
+______________________________________________________________________________________
+
+Question #7 (optional, ungraded) 
+Do you have any suggestions for improving this assignment in the future?
+
+The assignment is very well organized!
